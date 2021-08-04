@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etID" type="id">editid</item>
+    <item name="ratingbarStars" type="id">ratingbarstars</item>
+    <item name="btnUpdate" type="id">btnupdate</item>
+    <item name="btnDelete" type="id">btnDelete</item>
+    <item name="btnCancel" type="id">btnCancel</item>
+</resources>

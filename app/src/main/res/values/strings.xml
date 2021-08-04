@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OurSingapore</string>
+    <string name="btnInsert">insert</string>
+    <string name="btnShowList">btnshow</string>
+    <string name="title">title</string>
+    <string name="hint_title">title_hint</string>
+    <string name="singers">singers</string>
+    <string name="hint_singers">singers_hint</string>
+    <string name="year">year</string>
+    <string name="hint_year">year_hint</string>
+    <string name="stars">stars</string>
+    <string name="title_activity_main">title</string>
+    <string name="btn5Stars">5stars</string>
+    <string name="id">id</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+    <string name="title_activity_second">second_title</string>
+    <string name="title_activity_third">third_title</string>
+</resources>
